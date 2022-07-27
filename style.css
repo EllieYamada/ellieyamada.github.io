@@ -1,0 +1,22 @@
+html, body {
+  background-color: aliceblue;
+  color: dimgray;
+  padding: 10px;
+}
+html, image {
+  float:left;
+}
+html, image {
+  float:left;
+}
+html, description {
+  float:right
+}
+#first_heading{
+  color:darkslateblue;
+  font-size:50px
+}
+
+#reviews{
+  clear:both;
+}
